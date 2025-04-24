@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Welcome to The Digi.Casa
+# Welcome to The Digi.Casa👋
 
 TheDigi.Casa is the repository that contains information about my digital homestead that currently is in the planning stages. 
 
